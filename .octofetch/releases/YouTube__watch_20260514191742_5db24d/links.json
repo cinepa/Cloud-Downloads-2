@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1393",
+  "folder": "YouTube__watch_20260514191742_5db24d",
+  "base_name": "The_Most_Terrifying_Scene_In_Movie_History_(Under_The_Skin_Scene_Analy_88Ok1MC3PBQ_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/cinepa/Cloud-Downloads-2/releases/tag/co-releases-v1-1393",
+  "files": [
+    {
+      "name": "The_Most_Terrifying_Scene_In_Movie_History_.Under_The_Skin_Scene_Analy_88Ok1MC3PBQ_720p.mp4",
+      "url": "https://github.com/cinepa/Cloud-Downloads-2/releases/download/co-releases-v1-1393/The_Most_Terrifying_Scene_In_Movie_History_.Under_The_Skin_Scene_Analy_88Ok1MC3PBQ_720p.mp4",
+      "api_url": "https://api.github.com/repos/cinepa/Cloud-Downloads-2/releases/assets/420404763",
+      "id": 420404763,
+      "size": 35674981,
+      "download_count": 0
+    }
+  ]
+}
